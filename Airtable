@@ -1,0 +1,5 @@
+Issues in Airtable:
+1. Formula: Not able to apply formula for all records at once.
+2. Column Header names should not have spaces
+3. How to create view ? (Need to look into)
+4. How to capture change activity ?
